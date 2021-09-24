@@ -16,3 +16,5 @@ For example, a tags property could include a list of "tags" like -- "humor", "bu
 For example, every 30 seconds, make a new quoteappear. 
 (You can use the setInterval() or setTimeout() method to do this)
  
+ # License
+ MIT
