@@ -1,4 +1,4 @@
-body {background-color: #8c1aff;}
+body {background-color: #9932cc;}
 
 .content{
     max-width: 600px;
@@ -10,7 +10,7 @@ h2 {
     background-color: #4a4be7;
     color:#ffffff;
     padding:10px;
-    font-family: arial;
+    font-family: Bookman Old Style;
     text-align: center;
     border-radius:5px;
     box-shadow: 4px 4px #ee9be4;
@@ -39,7 +39,7 @@ h2 {
 button:focus {outline: none;}
 
 p{
-  font-family:Segoe UI;
+  font-family: Algerian;
   font-size: 20px;}
 
 img{height:25px;width:25px;}
